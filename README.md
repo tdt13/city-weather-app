@@ -15,7 +15,7 @@ This is a simple weather app that I built as part of my fullstack web dev bootca
 
 ## Demo
 
-Insert gif or link to demo
+![App Demo](https://github.com/tdt13/city-weather-app/blob/master/Weather%20App.gif?raw=true)
 
 
 ## Installation
@@ -30,7 +30,8 @@ Install city-weather-app with npm
     
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/tdt13/city-weather-app/blob/master/app_screenshot_1.PNG?raw=true)
+![App Screenshot](https://github.com/tdt13/city-weather-app/blob/master/app_screenshot_2.PNG?raw=true)
 
 
 ## Tech Stack
